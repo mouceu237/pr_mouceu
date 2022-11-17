@@ -1,5 +1,6 @@
 first line
 second line
-Oh! A new file!
 It wasn't here before!
 And one more line!
+first line -- for git gui&
+second line -- for git gui&
